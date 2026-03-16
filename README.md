@@ -1,16 +1,24 @@
-## Hi there 👋
+# Oscar Minjarez
 
-<!--
-**OscarMinjarez/oscarminjarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero de Software | Sonora, México
 
-Here are some ideas to get you started:
+Me enfoco en construir software que resuelva problemas reales. Valoro la técnica y la arquitectura limpia, pero bajo la premisa de que **el código solo tiene sentido si aporta un valor tangible** al producto final. 
+Mi enfoque profesional se basa en la robustez: desarrollar soluciones capaces de operar y destacar incluso en entornos complejos o con restricciones técnicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Áreas de enfoque técnico:
+* **Integración de IA Local:** Implementación de modelos de lenguaje (LLMs) en entornos asíncronos y no convencionales.
+* **Arquitectura de Sistemas:** Aplicación de patrones arquitectónicos como **Blackboard** para el manejo de flujos de datos complejos y concurrencia.
+* **Desarrollo Backend:** Construcción de herramientas orientadas a la funcionalidad y la escalabilidad real.
+
+### 🚀 Proyectos Recientes:
+* **Zanate Nunchi:** Un experimento de integración de IA local (Ollama) en tiempo real, optimizando latencia y priorización de eventos.
+---
+
+### ☕ Soporte al desarrollo
+Si alguno de mis repositorios te ha servido o te ha dado una perspectiva nueva sobre un problema técnico, puedes apoyar mi trabajo aquí:
+
+[![Invítame un café](https://img.shields.io/badge/Invítame_un_café-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/oscarminjarez)
+
+---
