@@ -9,11 +9,19 @@ Mi enfoque profesional se basa en la robustez: desarrollar soluciones capaces de
 
 ### 🛠️ Áreas de enfoque técnico:
 * **Integración de IA Local:** Implementación de modelos de lenguaje (LLMs) en entornos asíncronos y no convencionales.
-* **Arquitectura de Sistemas:** Aplicación de patrones arquitectónicos como **Blackboard** para el manejo de flujos de datos complejos y concurrencia.
+* **Arquitectura de Sistemas:** Aplicación de patrones como **Blackboard** para el manejo de flujos de datos complejos y concurrencia.
 * **Desarrollo Backend:** Construcción de herramientas orientadas a la funcionalidad y la escalabilidad real.
 
 ### 🚀 Proyectos Recientes:
 * **Zanate Nunchi:** Un experimento de integración de IA local (Ollama) en tiempo real, optimizando latencia y priorización de eventos.
+
+### 💻 Tecnologías:
+<p align="left">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,java,js,ts,angular,vue" />
+</a>
+</p>
+
 ---
 
 ### ☕ Soporte al desarrollo
