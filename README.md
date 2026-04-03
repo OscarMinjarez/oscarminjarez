@@ -2,8 +2,11 @@
 
 ### Ingeniero de Software | Sonora, México
 
-Me enfoco en construir software que resuelva problemas reales. Valoro la técnica y la arquitectura limpia, pero bajo la premisa de que **el código solo tiene sentido si aporta un valor tangible** al producto final. 
-Mi enfoque profesional se basa en la robustez: desarrollar soluciones capaces de operar y destacar incluso en entornos complejos o con restricciones técnicas.
+Creative Software Engineer enfocado en el diseño de sistemas orgánicos e inmersivos que trascienden lo estático. Mi especialidad es crear aplicaciones reactivas que evolucionan según su entorno **integrando dinámicamente variables como el clima, la ubicación y eventos en tiempo rea** para lograr una conexión profunda y natural con el usuario.
+
+Poseo una base sólida en la arquitectura de sistemas empresariales escalables (ERP/SaaS) y backend robusto utilizando principalmente PHP (Laravel) y Java, con una visión Fullstack que me permite desplegar interfaces fluidas en Angular y Vue. Cuento con experiencia real implementando Inteligencia Artificial en flujos prácticos: desde la orquestación de asistentes para la gestión de contextos complejos, hasta el diseño de motores de simulación espacial en tiempo real con arquitecturas de Pizarra.
+
+Me apasiona el diseño de infraestructuras multi-tenant, el aislamiento de datos y el uso estratégico de LLMs para automatizar procesos complejos. No solo escribo código; diseño la columna vertebral tecnológica de productos que actúan con propósito y se sienten vivos.
 
 ---
 
