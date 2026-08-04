@@ -1,29 +1,35 @@
 # Oscar Minjarez
 
-### Ingeniero de Software | Sonora, México
+### Ingeniero de Producto | SaaS, ERP e IA — Sonora, México
 
-Creative Software Engineer enfocado en el diseño de sistemas orgánicos e inmersivos que trascienden lo estático. Mi especialidad es crear aplicaciones reactivas que evolucionan según su entorno **integrando dinámicamente variables como el clima, la ubicación y eventos en tiempo rea** para lograr una conexión profunda y natural con el usuario.
+Ingeniero de software con más de 3 años de experiencia diseñando y construyendo plataformas SaaS/ERP multi-tenant y aplicaciones full-stack. Me especializo en traducir cuellos de botella operativos en sistemas escalables, integrando Inteligencia Artificial (LLMs locales y en la nube) para automatizar flujos de trabajo complejos y ofrecer impacto real de negocio.
 
-Poseo una base sólida en la arquitectura de sistemas empresariales escalables (ERP/SaaS) y backend robusto utilizando principalmente PHP (Laravel) y Java, con una visión Fullstack que me permite desplegar interfaces fluidas en Angular y Vue. Cuento con experiencia real implementando Inteligencia Artificial en flujos prácticos: desde la orquestación de asistentes para la gestión de contextos complejos, hasta el diseño de motores de simulación espacial en tiempo real con arquitecturas de Pizarra.
-
-Me apasiona el diseño de infraestructuras multi-tenant, el aislamiento de datos y el uso estratégico de LLMs para automatizar procesos complejos. No solo escribo código; diseño la columna vertebral tecnológica de productos que actúan con propósito y se sienten vivos.
+- 🏗️ Diseño arquitecturas multi-tenant desde cero: control de acceso complejo, aislamiento de datos y lógica de negocio escalable.
+- ⚡ Construyo herramientas de automatización impulsadas por IA que eliminan trabajo manual en procesos operativos (extracción de datos, onboarding, facturación).
+- 🧠 Experiencia real llevando IA a producción: desde asistentes con gestión de contexto complejo hasta motores de simulación espacial en tiempo real con arquitecturas **Blackboard**.
+- 🌱 Formación en Ingeniería de Software (ITSON, 2021–2026).
 
 ---
 
-### 🛠️ Áreas de enfoque técnico:
-* **Integración de IA Local:** Implementación de modelos de lenguaje (LLMs) en entornos asíncronos y no convencionales.
-* **Arquitectura de Sistemas:** Aplicación de patrones como **Blackboard** para el manejo de flujos de datos complejos y concurrencia.
-* **Desarrollo Backend:** Construcción de herramientas orientadas a la funcionalidad y la escalabilidad real.
+### 🛠️ Áreas de enfoque técnico
+- **Arquitectura de SaaS/ERP:** sistemas multi-tenant, aislamiento de datos, lógica de negocio escalable.
+- **Integración de IA:** LLMs locales (Ollama) y en la nube (Gemini AI) para automatización de procesos y flujos de usuario.
+- **Full-Stack:** backends robustos (Laravel, NestJS, Spring Boot) e interfaces reactivas (Vue, Angular, React/Next.js).
+- **Pagos e integraciones:** Stripe API, endpoints gubernamentales de facturación, CI/CD.
 
-### 🚀 Proyectos Recientes:
-* **Zanate Nunchi:** Un experimento de integración de IA local (Ollama) en tiempo real, optimizando latencia y priorización de eventos.
+### 🚀 Proyecto destacado
+**[Zanate Nunchi](https://github.com/OscarMinjarez)** — Mod de Minecraft que integra LLMs locales (Ollama) como compañeros virtuales en tiempo real, eliminando latencia de red y costos de API. Arquitectura Blackboard con análisis de contexto espacial y un motor de mapeo dialectal que soporta 13 idiomas y 17 variantes regionales.
 
-### 💻 Tecnologías:
+### 💻 Tecnologías
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,js,ts,angular,vue" />
+    <img src="https://skillicons.dev/icons?i=php,java,cs,dotnet,js,ts,laravel,angular,vue,nuxtjs,react,nextjs,nestjs,spring,ionic,postgres,mysql,mongodb,docker,git,githubactions" />
 </a>
 </p>
+
+### 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-minjarez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minjarezdev@gmail.com)
 
 ---
 
@@ -31,5 +37,3 @@ Me apasiona el diseño de infraestructuras multi-tenant, el aislamiento de datos
 Si alguno de mis repositorios te ha servido o te ha dado una perspectiva nueva sobre un problema técnico, puedes apoyar mi trabajo aquí:
 
 [![Invítame un café](https://img.shields.io/badge/Invítame_un_café-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/oscarminjarez)
-
----
